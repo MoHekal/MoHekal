@@ -2,6 +2,8 @@
 
 Full Stack AI Engineer building practical AI products with React, Next.js, FastAPI, Flutter, Supabase, and retrieval-augmented generation systems.
 
+Portfolio: https://mohekal.github.io/mohamed-hekal-portfolio/
+
 ## Featured Work
 
 - [NutriAI](https://github.com/MoHekal/nutriai) - Flutter nutrition and fitness app with AI-assisted meal coaching.
